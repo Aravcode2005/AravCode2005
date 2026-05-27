@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0a0000,60:1a0000,80:6b0000,100:cc0000&height=220&section=header&text=ARAV%20GUPTA&fontSize=60&fontColor=ff2222&fontAlignY=38&desc=喰種%20|%20The%20Developer%20Ghoul%20|%20喰種&descSize=18&descColor=880000&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:080000,60:1a0000,80:6b0000,100:cc0000&height=260&section=header&text=ARAV%20GUPTA&fontSize=72&fontColor=ff2222&fontAlignY=40&desc=荒%20グプタ%20·%20喰種型開発者%20·%20SSS%2B&descSize=16&descColor=660000&descAlignY=60&animation=fadeIn"/>
 
 </div>
 
@@ -17,32 +17,24 @@
 
 </div>
 
----
-
 <div align="center">
 
-## 〜 第一章 〜　喰種の素性
-*Chapter One — Identity of the Ghoul*
-
-<br/>
-
 ```
-  ╔══════════════════════════════════════════════════════════╗
-  ║  🩸  NAME  ──  Arav Gupta  ──  荒 グプタ                ║
-  ║  🩸  WARD  ──  New Delhi, India                         ║
-  ║  🩸  RANK  ──  B.Tech CSE (AI/ML) · VIT Bhopal · 2028  ║
-  ║  🩸  CGPA  ──  8.15  ──  Rating: SSS                    ║
-  ║  🩸  RATE  ──  aravlead@gmail.com                       ║
-  ║  🩸  HUNT  ──  AI · ML · Full Stack · Open Source       ║
-  ╚══════════════════════════════════════════════════════════╝
+  ┌──────────────────────────────────────────────────────────────────┐
+  │  🩸  WARD    ··  New Delhi, India                                │
+  │  🩸  RANK    ··  B.Tech CSE (AI/ML) · VIT Bhopal · 2024–2028    │
+  │  🩸  CGPA    ··  8.15 / 10.0  ·  Rating: SSS                    │
+  │  🩸  KAGUNE  ··  AI · ML · Full Stack · Open Source             │
+  │  🩸  STATUS  ··  ◆ ACTIVE · HUNTING                             │
+  │  🩸  MAIL    ··  aravlead@gmail.com                              │
+  └──────────────────────────────────────────────────────────────────┘
 ```
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aravcode2005-0d0000?style=for-the-badge&logo=github&logoColor=cc0000&labelColor=0a0000)](https://github.com/Aravcode2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aravgupta-0d0000?style=for-the-badge&logo=linkedin&logoColor=cc0000&labelColor=0a0000)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-arav-0d0000?style=for-the-badge&logo=leetcode&logoColor=cc0000&labelColor=0a0000)](https://leetcode.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-arav-0d0000?style=for-the-badge&logo=codeforces&logoColor=cc0000&labelColor=0a0000)](https://codeforces.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Aravcode2005-0a0000?style=for-the-badge&logo=github&logoColor=cc0000&labelColor=050000)](https://github.com/Aravcode2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0000?style=for-the-badge&logo=linkedin&logoColor=cc0000&labelColor=050000)](https://linkedin.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-0a0000?style=for-the-badge&logo=leetcode&logoColor=cc0000&labelColor=050000)](https://leetcode.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-0a0000?style=for-the-badge&logo=codeforces&logoColor=cc0000&labelColor=050000)](https://codeforces.com)
+[![Mail](https://img.shields.io/badge/aravlead@gmail.com-0a0000?style=for-the-badge&logo=gmail&logoColor=cc0000&labelColor=050000)](mailto:aravlead@gmail.com)
 
 </div>
 
@@ -50,42 +42,31 @@
 
 <div align="center">
 
-## 〜 第二章 〜　赫子のスキル
-*Chapter Two — The Kagune of Skills*
-
-<br/>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                          ▓
-▓   🩸 LANGUAGES   Python · C++ · Java · JS · TypeScript  ▓
-▓   🩸 FRONTEND    React · HTML · CSS · Django · Flask     ▓
-▓   🩸 BACKEND     Express.js · Node.js                   ▓
-▓   🩸 DATABASE    MongoDB · Docker · Git · Linux          ▓
-▓   🩸 ML / DATA   Scikit-learn · Pandas · NumPy · TS      ▓
-▓                                                          ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+## ░░ 第一章 ░░　KAGUNE.SKILLS — 赫子のスキル
 
 </div>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0000?style=flat-square&logo=python&logoColor=cc0000)
-![C++](https://img.shields.io/badge/C++-0a0000?style=flat-square&logo=cplusplus&logoColor=cc0000)
-![Java](https://img.shields.io/badge/Java-0a0000?style=flat-square&logo=openjdk&logoColor=cc0000)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0000?style=flat-square&logo=javascript&logoColor=cc0000)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0000?style=flat-square&logo=typescript&logoColor=cc0000)
-![React](https://img.shields.io/badge/React-0a0000?style=flat-square&logo=react&logoColor=cc0000)
-![Node.js](https://img.shields.io/badge/Node.js-0a0000?style=flat-square&logo=nodedotjs&logoColor=cc0000)
-![Flask](https://img.shields.io/badge/Flask-0a0000?style=flat-square&logo=flask&logoColor=cc0000)
-![Django](https://img.shields.io/badge/Django-0a0000?style=flat-square&logo=django&logoColor=cc0000)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0000?style=flat-square&logo=mongodb&logoColor=cc0000)
-![Docker](https://img.shields.io/badge/Docker-0a0000?style=flat-square&logo=docker&logoColor=cc0000)
-![Linux](https://img.shields.io/badge/Linux-0a0000?style=flat-square&logo=linux&logoColor=cc0000)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0a0000?style=flat-square&logo=scikitlearn&logoColor=cc0000)
-![Pandas](https://img.shields.io/badge/Pandas-0a0000?style=flat-square&logo=pandas&logoColor=cc0000)
-![NumPy](https://img.shields.io/badge/NumPy-0a0000?style=flat-square&logo=numpy&logoColor=cc0000)
+![Python](https://img.shields.io/badge/Python-050000?style=flat-square&logo=python&logoColor=cc0000)
+![C++](https://img.shields.io/badge/C++-050000?style=flat-square&logo=cplusplus&logoColor=cc0000)
+![Java](https://img.shields.io/badge/Java-050000?style=flat-square&logo=openjdk&logoColor=cc0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-050000?style=flat-square&logo=javascript&logoColor=cc0000)
+![TypeScript](https://img.shields.io/badge/TypeScript-050000?style=flat-square&logo=typescript&logoColor=cc0000)
+![React](https://img.shields.io/badge/React-050000?style=flat-square&logo=react&logoColor=cc0000)
+![Node.js](https://img.shields.io/badge/Node.js-050000?style=flat-square&logo=nodedotjs&logoColor=cc0000)
+![Express](https://img.shields.io/badge/Express-050000?style=flat-square&logo=express&logoColor=cc0000)
+![Flask](https://img.shields.io/badge/Flask-050000?style=flat-square&logo=flask&logoColor=cc0000)
+![Django](https://img.shields.io/badge/Django-050000?style=flat-square&logo=django&logoColor=cc0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-050000?style=flat-square&logo=mongodb&logoColor=cc0000)
+![Docker](https://img.shields.io/badge/Docker-050000?style=flat-square&logo=docker&logoColor=cc0000)
+![Linux](https://img.shields.io/badge/Linux-050000?style=flat-square&logo=linux&logoColor=cc0000)
+![Git](https://img.shields.io/badge/Git-050000?style=flat-square&logo=git&logoColor=cc0000)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-050000?style=flat-square&logo=scikitlearn&logoColor=cc0000)
+![Pandas](https://img.shields.io/badge/Pandas-050000?style=flat-square&logo=pandas&logoColor=cc0000)
+![NumPy](https://img.shields.io/badge/NumPy-050000?style=flat-square&logo=numpy&logoColor=cc0000)
+![HTML](https://img.shields.io/badge/HTML-050000?style=flat-square&logo=html5&logoColor=cc0000)
+![CSS](https://img.shields.io/badge/CSS-050000?style=flat-square&logo=css3&logoColor=cc0000)
 
 </div>
 
@@ -93,28 +74,18 @@
 
 <div align="center">
 
-## 〜 第三章 〜　喰種の作戦
-*Chapter Three — Operations / Projects*
+## ░░ 第二章 ░░　OPERATIONS.EXE — 喰種の作戦
 
 </div>
-
-```
-  ██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗███████╗
-  ██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝██╔════╝
-  ██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║   ███████╗
-  ██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║   ╚════██║
-  ██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║   ███████║
-  ╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝   ╚══════╝
-```
 
 <div align="center">
 
 | 🩸 | 作戦コード | 詳細 | リンク |
 |:---:|:---|:---|:---:|
-| 🤖 | **Recruiter OS** — AI Email Scanner | End-to-end AI-powered email scanning & auto-reply automation | [repo](https://github.com/Aravcode2005/RecruiterOS) |
-| 🔗 | **LinkLoader** — LinkedIn Bot | AI-powered scheduled LinkedIn posting & content delivery agent | [repo](https://github.com/Aravcode2005/Linkedin-Agent) |
-| 👁️ | **Echoes of Oblivion** — AI Horror Sim | Multiplayer 3D horror · procedural environments · positional audio | [repo](https://github.com/Aravcode2005/Echoes-of-Oblivio) |
-| ⚡ | **Grid Genius** — Energy AI | Time-series regression model to predict & optimise public space power usage | [repo](https://github.com/Aravcode2005/ML-Predictive-Dashboard) |
+| 🤖 | **`OP-001` · RECRUITER OS** | AI-powered end-to-end email scanning & auto-reply automation pipeline | [⚔️ repo](https://github.com/Aravcode2005/RecruiterOS) |
+| 🔗 | **`OP-002` · LINKLOADER** | Automated AI LinkedIn bot — scheduled posting & managed content delivery | [⚔️ repo](https://github.com/Aravcode2005/Linkedin-Agent) |
+| 👁️ | **`OP-003` · ECHOES OF OBLIVION** | Server-based multiplayer 3D horror · procedural environments · positional audio | [⚔️ repo](https://github.com/Aravcode2005/Echoes-of-Oblivio) |
+| ⚡ | **`OP-004` · GRID GENIUS** | Time-series regression model predicting & optimising public space power usage | [⚔️ repo](https://github.com/Aravcode2005/ML-Predictive-Dashboard) |
 
 </div>
 
@@ -122,25 +93,24 @@
 
 <div align="center">
 
-## 〜 第四章 〜　現実を狩る  ──  OPERATION: CLEAN AIR
-*Chapter Four — Hunting Reality Itself*
+## ░░ 第三章 ░░　OPERATION: CLEAN AIR 🌫️ — 現実を狩る
 
 ```
-  ╔════════════════════════════════════════════════════════════════════╗
-  ║                                                                    ║
-  ║  🌫️  空気清浄作戦  ──  OPERATION: CLEAN AIR  ──  汚染との戦い  🌫️ ║
-  ║                                                                    ║
-  ╠════════════════════════════════════════════════════════════════════╣
-  ║                                                                    ║
-  ║  組織  🩸  Delhi Air Quality Research Initiative                   ║
-  ║  任務  🩸  100m × 10m suspended HEPA filtration system            ║
-  ║  赫子  🩸  AI control logic · PM2.5 sensors · wind data           ║
-  ║  戦術  🩸  Fluid dynamics · V-block geometry · pressure-drop      ║
-  ║  文書  🩸  Full CPCB / DPCC regulatory documentation              ║
-  ║                                                                    ║
-  ╠════════════════════════════════════════════════════════════════════╣
-  ║  「 Even ghouls need clean air to hunt. 」                         ║
-  ╚════════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════════╗
+  ║                                                                      ║
+  ║   🌫️  空気清浄作戦  ──  OPERATION: CLEAN AIR  ──  汚染との戦い  🌫️  ║
+  ║                                                                      ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║                                                                      ║
+  ║   MISSION  🩸  100m × 10m suspended HEPA filtration system          ║
+  ║   KAGUNE   🩸  AI control logic · PM2.5 sensors · wind data         ║
+  ║   TACTICS  🩸  Fluid dynamics · V-block geometry · pressure-drop    ║
+  ║   INTEL    🩸  Full CPCB / DPCC regulatory documentation            ║
+  ║   OUTPUT   🩸  Co-authored whitepaper · Jan 2026 – Present          ║
+  ║                                                                      ║
+  ╠══════════════════════════════════════════════════════════════════════╣
+  ║   「 Even ghouls need clean air to hunt. 」                          ║
+  ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -149,17 +119,14 @@
 
 <div align="center">
 
-## 〜 第五章 〜　喰種の経験
-*Chapter Five — Experience Carved in Blood*
-
-<br/>
+## ░░ 第四章 ░░　BLOODWORK.EXPERIENCE — 喰種の経験
 
 | 🩸 | 役職 | 組織 | 期間 |
 |:---:|:---|:---|:---:|
 | 🤖 | **AI Intern** | DeepThought Culture Ventures · Remote | May 2026 – Present |
 | 🌫️ | **Technical Contributor** | Delhi Air Quality Research Initiative | Jan 2026 – Present |
 | 💼 | **Business Development Intern** | JP IT Staffing · Remote | Apr 2026 – Present |
-| ✍️ | **Content Writer Intern** | InAmigos Foundation · Remote | Apr 2026 – May 2026 |
+| ✍️ | **Content Writer Intern** | InAmigos Foundation · Remote | Apr – May 2026 |
 | 🌐 | **Open Source Contributor** | GirlScript Summer of Code 2026 | May 2026 – Present |
 | 🌐 | **Open Source Contributor** | Social Summer of Code | May 2026 – Present |
 
@@ -169,21 +136,18 @@
 
 <div align="center">
 
-## 〜 第六章 〜　称号と勲章
-*Chapter Six — Titles & Battle Honours*
-
-<br/>
+## ░░ 第五章 ░░　TITLES.UNLOCKED — 称号と勲章
 
 | 🩸 | 称号 | 詳細 |
 |:---:|:---:|:---|
-| ⚔️ | **隻眼の開発者** — One-Eyed Dev | Smart India Hackathon · National Participant |
+| ⚔️ | **隻眼の開発者** — One-Eyed Dev | Smart India Hackathon (SIH) · National Participant |
 | 🏥 | **命の喰種** — Ghoul of Life | VIT × JHU Health Hackathon · Finalist |
 | ⚡ | **閃光の喰種** — Flash Ghoul | Solvit 2025 · Finalist |
-| 💡 | **煌めく喰種** — Gleaming Ghoul | SBI Life Ideation · Recognition Award |
-| 🎓 | **知識の捜査官** — Investigator of Knowledge | ML Cert · Stanford & DeepLearning.AI |
-| 🌐 | **鋼の喰種** — Iron Ghoul | Full Stack Web Dev Certification |
-| 🥋 | **黒帯の喰種** — Black Belt Ghoul | World Taekwondo Headquarters |
-| 🤖 | **機械の捜査官** — Machine Investigator | Techgyan 2025 · IIT Kanpur · ML Track |
+| 💡 | **煌めく喰種** — Gleaming Ghoul | SBI Life Ideation Challenge · Recognition Award |
+| 🎓 | **知識の捜査官** — Investigator of Knowledge | ML Certification · Stanford University / DeepLearning.AI |
+| 🌐 | **鋼の喰種** — Iron Ghoul | Full Stack Web Development Certification · Bogdan Staschuk |
+| 🤖 | **機械の捜査官** — Machine Investigator | Techgyan 2025 · IIT Kanpur · Machine Learning Track |
+| 🥋 | **黒帯の喰種** — Black Belt Ghoul | Taekwondo Black Belt · World Taekwondo Headquarters |
 
 </div>
 
@@ -191,16 +155,13 @@
 
 <div align="center">
 
-## 〜 第七章 〜　GitHub の戦場
-*Chapter Seven — The GitHub Battlefield*
+## ░░ 第六章 ░░　GITHUB.BATTLEFIELD — 戦場
 
-<br/>
+![Arav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravcode2005&show_icons=true&hide_border=true&bg_color=050000&title_color=cc0000&text_color=880000&icon_color=ff2222&ring_color=cc0000&theme=dark)
 
-![Arav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravcode2005&show_icons=true&theme=blood_dark&hide_border=true&bg_color=0a0000&title_color=cc0000&text_color=880000&icon_color=ff2222)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aravcode2005&theme=dark&hide_border=true&background=050000&ring=cc0000&fire=ff2222&currStreakLabel=880000&sideLabels=880000&dates=440000&stroke=1a0000&currStreakNum=cc0000&sideNums=cc0000)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravcode2005&layout=compact&theme=blood_dark&hide_border=true&bg_color=0a0000&title_color=cc0000&text_color=880000)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aravcode2005&theme=dark&hide_border=true&background=0a0000&ring=cc0000&fire=ff2222&currStreakLabel=880000&sideLabels=880000&dates=660000&stroke=1a0000&currStreakNum=cc0000&sideNums=cc0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravcode2005&layout=compact&hide_border=true&bg_color=050000&title_color=cc0000&text_color=880000&theme=dark)
 
 </div>
 
@@ -208,21 +169,19 @@
 
 <div align="center">
 
-### 🩸 喰種の言葉 ── Last Words Before the Hunt
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
+## ░░ 最終章 ░░　TERMINAL.LAST_WORDS — 喰種の言葉
 
 ```
-  ┌────────────────────────────────────────────────────────────────┐
-  │                                                                │
-  │  🩸  バグは獲物だ        ──  Bugs are prey                    │
-  │  🩸  コードは赫子だ      ──  Code is my kagune                │
-  │  🩸  AIは本能だ          ──  AI is instinct                   │
-  │  🩸  出荷するまで、眠らない  ──  I don't sleep until shipped  │
-  │                                                                │
-  └────────────────────────────────────────────────────────────────┘
+  ghoul@tokyo:~$ cat manifesto.txt
+
+  # ──────────────────────────────────────────────────────
+  🩸  バグは獲物だ          ··  Bugs are prey.
+  🩸  コードは赫子だ        ··  Code is my kagune.
+  🩸  AIは本能だ            ··  AI is instinct.
+  🩸  出荷するまで、眠らない  ··  I don't sleep until shipped.
+  # ──────────────────────────────────────────────────────
+
+  ghoul@tokyo:~$ █
 ```
 
 <br/>
@@ -231,6 +190,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0000,50:1a0000,75:8b0000,100:cc0000&height=200&section=footer&text=また%20狩りで会いましょう&fontSize=32&fontColor=ff4444&fontAlignY=55&desc=Until+we+meet+again+on+the+hunt+——+狩りの中で&descSize=15&descColor=cc0000&descAlignY=78&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc0000,25:8b0000,50:1a0000,75:080000,100:000000&height=200&section=footer&text=また%20狩りで会いましょう&fontSize=36&fontColor=ff4444&fontAlignY=55&desc=Until+we+meet+again+on+the+hunt+──+狩りの中で&descSize=14&descColor=880000&descAlignY=75&animation=fadeIn"/>
 
 </div>
