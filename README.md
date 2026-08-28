@@ -1,246 +1,255 @@
+<!-- PROFILE NODE: ARAVCODE2005 // CLEARANCE: PUBLIC // SIGNAL: ACTIVE -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,20:001a00,50:003300,80:00b32d,100:00ff41&height=280&section=header&text=ARAV%20GUPTA&fontSize=70&fontColor=00ff41&fontAlignY=42&desc=root%40dev%20%C2%B7%20full-stack%20%2F%20backend%20engineer&descSize=17&descColor=00cc33&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020204,35:070711,70:001d18,100:00ff9d&text=ARAV%20GUPTA&fontColor=ecfff9&fontSize=72&fontAlignY=44&desc=%5B%20ARAVCODE2005%20%2F%2F%20SYSTEMS%20ONLINE%20%5D&descAlignY=66&descSize=16&animation=twinkling&stroke=00ff9d&strokeWidth=1" alt="Arav Gupta â€” systems online" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=00FF9D&center=true&vCenter=true&repeat=true&width=760&height=48&lines=%24+initializing+operator+profile...;%24+mapping+systems+%2F+breaking+assumptions;%24+backend+%C2%B7+infrastructure+%C2%B7+distributed+systems;%24+signal+acquired+%E2%80%94+welcome+to+the+void" alt="Animated terminal introduction" />
+</a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Compiling+ideas+into+production...;Backend-focused+full-stack+developer;print(%22hello%2C+I%27m+Arav%22);sudo+./ship+--no-sleep" alt="Typing SVG" />
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│ user@dev-machine:~$ whoami                                       │
-├──────────────────────────────────────────────────────────────────┤
-│  NAME     ::  Arav Gupta                                         │
-│  BASE     ::  New Delhi, India                                   │
-│  DEGREE   ::  B.Tech CSE (AI/ML) · VIT Bhopal · 2024–2028         │
-│  CGPA     ::  8.15 / 10.0                                        │
-│  STACK    ::  AI · ML · Full Stack · Open Source                 │
-│  STATUS   ::  [ONLINE] actively building                         │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-Aravcode2005-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/Aravcode2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000)](https://linkedin.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=00ff41&labelColor=000000)](https://leetcode.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-000000?style=for-the-badge&logo=codeforces&logoColor=00ff41&labelColor=000000)](https://codeforces.com)
-[![Mail](https://img.shields.io/badge/aravlead%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000)](mailto:aravlead@gmail.com)
+<img src="https://img.shields.io/badge/NODE-ONLINE-00ff9d?style=for-the-badge&labelColor=050508" alt="Node online" />
+<img src="https://img.shields.io/badge/CLEARANCE-PUBLIC-9d4edd?style=for-the-badge&labelColor=050508" alt="Public clearance" />
+<img src="https://img.shields.io/badge/LOCATION-NEW_DELHI-00d9ff?style=for-the-badge&labelColor=050508" alt="New Delhi" />
 
 </div>
 
-<br/>
+```text
+â”Œâ”€[root@arav-node]â”€[/identity]
+â””â”€â”€â•¼ $ ./resolve_operator --verbose
+
+    alias       : Arav Gupta
+    designation : Backend / Infrastructure Engineer
+    institute   : VIT Bhopal University
+    program     : B.Tech CSE (AI/ML) // 2024â€”2028
+    cgpa        : 8.15 / 10.0
+    coordinates : New Delhi, India
+    objective   : understand the system beneath the abstraction
+
+    [ OK ] operator authenticated
+    [ OK ] curiosity daemon running
+    [ .. ] next system loading
+```
 
 <div align="center">
 
-### `cd /sections`
+[![GitHub](https://img.shields.io/badge/GITHUB-ARAVCODE2005-050508?style=for-the-badge&logo=github&logoColor=00ff9d)](https://github.com/Aravcode2005)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ESTABLISH_SIGNAL-050508?style=for-the-badge&logo=linkedin&logoColor=00d9ff)](https://linkedin.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-ACCESS_NODE-050508?style=for-the-badge&logo=leetcode&logoColor=ffd166)](https://leetcode.com)
+[![Codeforces](https://img.shields.io/badge/CODEFORCES-TRACE_RATING-050508?style=for-the-badge&logo=codeforces&logoColor=ff4d6d)](https://codeforces.com)
+[![Mail](https://img.shields.io/badge/ENCRYPTED_CHANNEL-ARAVLEAD%40GMAIL.COM-050508?style=for-the-badge&logo=gmail&logoColor=9d4edd)](mailto:aravlead@gmail.com)
 
-[whoami](#-01--identity) ·
-[stack](#-02--tech-stack) ·
-[projects](#-03--projects) ·
-[clean-air](#-04--operation-clean-air-) ·
-[experience](#-05--experience) ·
-[achievements](#-06--achievements) ·
-[stats](#-07--live-stats)
+<br/>
+
+`[ 00 ]` [identity](#-00--operator-profile) Â·
+`[ 01 ]` [arsenal](#-01--technical-arsenal) Â·
+`[ 02 ]` [operations](#-02--active-operations) Â·
+`[ 03 ]` [field log](#-03--field-log) Â·
+`[ 04 ]` [intel](#-04--verified-intel) Â·
+`[ 05 ]` [telemetry](#-05--live-telemetry)
 
 </div>
 
 ---
 
-<div align="center">
+## `[ 00 ]` // OPERATOR PROFILE
 
-## `[ 01 ]` IDENTITY
+> **Security is not a product. Infrastructure is not magic. Every abstraction leaks.**
 
-| FIELD | VALUE |
-|:---|:---|
-| 📍 **Location** | New Delhi, India |
-| 🎓 **Education** | B.Tech CSE (AI/ML) · VIT Bhopal University · 2024–2028 |
-| ⭐ **CGPA** | 8.15 / 10.0 |
-| 🖥️ **Focus** | AI · ML · Full Stack · Open Source |
-| ⚡ **Status** | `ACTIVE` — building, shipping, debugging |
+I build backend systems, deployment pipelines, and production infrastructureâ€”then follow the request past the framework, through the network, and down toward the operating system.
 
-</div>
+My work lives where application logic meets real machines: server-authoritative state, browser automation, containers, cloud deployment, CI/CD, process inspection, distributed coordination, and the failure modes hiding between them.
+
+```yaml
+operator:
+  name: "Arav Gupta"
+  primary_signal: "backend + infrastructure"
+  secondary_signal: "AI/ML + open source"
+  current_directive:
+    - build systems that survive contact with reality
+    - inspect what abstractions conceal
+    - automate everything that should never be manual twice
+  status: "ACTIVE"
+```
 
 ---
 
+## `[ 01 ]` // TECHNICAL ARSENAL
+
 <div align="center">
 
-## `[ 02 ]` TECH STACK
+### `LANGUAGES`
 
-| CATEGORY | TOOLS |
-|:---|:---|
-| 🐍 **Languages** | Python · C++ · Java · JavaScript · TypeScript |
-| ⚛️ **Frontend** | React · HTML · CSS |
-| 🟢 **Backend** | Node.js · Express.js · Flask · Django |
-| 🗄️ **Database & DevOps** | MongoDB · Docker · Git · Linux |
-| 🤖 **ML / Data** | Scikit-learn · Pandas · NumPy · Time-Series Analysis |
+![Python](https://img.shields.io/badge/PYTHON-050508?style=for-the-badge&logo=python&logoColor=00ff9d)
+![C++](https://img.shields.io/badge/C%2B%2B-050508?style=for-the-badge&logo=cplusplus&logoColor=00d9ff)
+![Java](https://img.shields.io/badge/JAVA-050508?style=for-the-badge&logo=openjdk&logoColor=ff4d6d)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-050508?style=for-the-badge&logo=javascript&logoColor=ffd166)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-050508?style=for-the-badge&logo=typescript&logoColor=9d4edd)
 
-<br/>
+### `BACKEND // WEB`
 
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00ff41)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00ff41)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00ff41)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00ff41)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=00ff41)
-![Django](https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=00ff41)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00ff41)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00ff41)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=00ff41)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=00ff41)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=00ff41)
+![Node.js](https://img.shields.io/badge/NODE.JS-050508?style=for-the-badge&logo=nodedotjs&logoColor=00ff9d)
+![Express](https://img.shields.io/badge/EXPRESS-050508?style=for-the-badge&logo=express&logoColor=ecfff9)
+![Flask](https://img.shields.io/badge/FLASK-050508?style=for-the-badge&logo=flask&logoColor=00d9ff)
+![Django](https://img.shields.io/badge/DJANGO-050508?style=for-the-badge&logo=django&logoColor=00ff9d)
+![React](https://img.shields.io/badge/REACT-050508?style=for-the-badge&logo=react&logoColor=00d9ff)
+
+### `DATA // INFRASTRUCTURE`
+
+![MongoDB](https://img.shields.io/badge/MONGODB-050508?style=for-the-badge&logo=mongodb&logoColor=00ff9d)
+![Redis](https://img.shields.io/badge/REDIS-050508?style=for-the-badge&logo=redis&logoColor=ff4d6d)
+![Docker](https://img.shields.io/badge/DOCKER-050508?style=for-the-badge&logo=docker&logoColor=00d9ff)
+![AWS](https://img.shields.io/badge/AWS-050508?style=for-the-badge&logo=amazonwebservices&logoColor=ffd166)
+![Jenkins](https://img.shields.io/badge/JENKINS-050508?style=for-the-badge&logo=jenkins&logoColor=ff4d6d)
+![Linux](https://img.shields.io/badge/LINUX-050508?style=for-the-badge&logo=linux&logoColor=ffd166)
+![Git](https://img.shields.io/badge/GIT-050508?style=for-the-badge&logo=git&logoColor=ff4d6d)
+
+### `INTELLIGENCE LAYER`
+
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-050508?style=for-the-badge&logo=scikitlearn&logoColor=ffd166)
+![Pandas](https://img.shields.io/badge/PANDAS-050508?style=for-the-badge&logo=pandas&logoColor=9d4edd)
+![NumPy](https://img.shields.io/badge/NUMPY-050508?style=for-the-badge&logo=numpy&logoColor=00d9ff)
 
 </div>
+
+```text
+[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ] backend systems
+[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘] cloud + CI/CD
+[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘] machine learning
+[â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘] refusing to stop at "it works"
+```
 
 ---
 
-<div align="center">
+## `[ 02 ]` // ACTIVE OPERATIONS
 
-## `[ 03 ]` PROJECTS
+### `OP-01 // HIREFLOW [AIRHIRE]`
 
-</div>
+> **Classification:** recruitment-operations automation  
+> **State:** deployed system  
+> **Repository:** [Aravcode2005/HireFlow](https://github.com/Aravcode2005/HireFlow)
 
+```text
+ENTRY VECTOR     scheduled job workflow
+AUTOMATION       Playwright-controlled LinkedIn publishing
+INTELLIGENCE     AI-formatted job content + candidate qualification
+INTEGRATIONS     Gmail API + Google Calendar API
+INFRASTRUCTURE   Docker + AWS + Jenkins â†’ ECR CI/CD
+ACCESS CONTROL   secure administrative onboarding
 ```
-user@dev-machine:~/projects$ cat hireflow.md
-```
-
-<div align="center">
-
-### 🟢 HireFlow (AirHire)
-**Node.js recruitment-operations platform**
-
-Secure admin onboarding · scheduled AI-formatted LinkedIn posting via Playwright · Gmail-based candidate qualification · Google Calendar integration · Dockerized headful-browser infrastructure · AWS hosting · Jenkins → ECR CI/CD pipeline.
 
 `Node.js` `Playwright` `Gmail API` `Google Calendar API` `Docker` `AWS` `Jenkins`
 
-[![Repo](https://img.shields.io/badge/repo-Aravcode2005%2FHireFlow-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/Aravcode2005/HireFlow)
+---
 
-</div>
+### `OP-02 // PIXELMANIA`
 
+> **Classification:** server-authoritative 3D multiplayer arena  
+> **State:** persistent real-time simulation  
+> **Repository:** [Aravcode2005/pixelManiac](https://github.com/Aravcode2005/pixelManiac)
+
+```text
+CLIENT           transmits input intent only
+SERVER           owns movement, gravity, collision, damage and match state
+TRANSPORT        real-time Socket.IO events
+RENDERER         Three.js browser world
+PERSISTENCE      MongoDB user state + Redis ephemeral sessions
 ```
-user@dev-machine:~/projects$ cat pixelmaniac.md
-```
-
-<div align="center">
-
-### 🟢 PixelMania
-**Server-authoritative 3D multiplayer arena game**
-
-Clients send input intent over Socket.IO; the Node.js server owns room state, movement, gravity, collision, damage, lives, match timing, and leaderboard generation. Three.js renders the world in the browser, MongoDB persists user data, Redis stores short-lived session state.
 
 `Node.js` `Socket.IO` `Three.js` `MongoDB` `Redis`
 
-[![Repo](https://img.shields.io/badge/repo-Aravcode2005%2FpixelManiac-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/Aravcode2005/pixelManiac)
-
-</div>
-
 ---
 
-<div align="center">
+### `OP-03 // CLEAN AIR`
 
-## `[ 04 ]` OPERATION: CLEAN AIR 🌫️
+> **Classification:** environmental research initiative  
+> **State:** research in progress  
+> **Period:** January 2026 â€” present
 
-```
-┌───────────────────────────────────────────────────────────────────────┐
-│  user@dev-machine:~$ ./clean_air --status                             │
-├───────────────────────────────────────────────────────────────────────┤
-│  ORG      ::  Delhi Air Quality Research Initiative                   │
-│  MISSION  ::  100m × 10m suspended HEPA filtration system             │
-│  STACK    ::  AI control logic · PM2.5 sensors · wind data            │
-│  METHOD   ::  Fluid dynamics · V-block geometry · pressure-drop       │
-│  OUTPUT   ::  Co-authored whitepaper · CPCB / DPCC compliant          │
-│  PERIOD   ::  Jan 2026 – Present                                      │
-├───────────────────────────────────────────────────────────────────────┤
-│  > clean air is a prerequisite, not a luxury.                         │
-└───────────────────────────────────────────────────────────────────────┘
+```text
+â”Œâ”€ MISSION BRIEF â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚ ORGANIZATION  Delhi Air Quality Research Initiative                 â”‚
+â”‚ OBJECTIVE     100 m Ã— 10 m suspended HEPA filtration system         â”‚
+â”‚ INPUTS        PM2.5 sensor telemetry + wind data                    â”‚
+â”‚ CONTROL       AI-assisted control logic                             â”‚
+â”‚ MODEL         fluid dynamics + V-block geometry + pressure drop     â”‚
+â”‚ OUTPUT        co-authored whitepaper; CPCB / DPCC aligned           â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
 ```
 
-</div>
+---
+
+## `[ 03 ]` // FIELD LOG
+
+| TIMELINE | DESIGNATION | ORGANISATION |
+|:--|:--|:--|
+| `MAYâ€”JUL 2026` | AI Intern | DeepThought Culture Ventures Â· Remote |
+| `JAN 2026â€”NOW` | Technical Contributor | Delhi Air Quality Research Initiative |
+| `APRâ€”JUL 2026` | Business Development Intern | JP IT Staffing Â· Remote |
+| `APRâ€”MAY 2026` | Content Writer Intern | InAmigos Foundation Â· Remote |
+| `MAYâ€”JUN 2026` | Open Source Contributor | GirlScript Summer of Code 2026 |
+| `MAYâ€”JUN 2026` | Open Source Contributor | Social Summer of Code |
 
 ---
 
-<div align="center">
+## `[ 04 ]` // VERIFIED INTEL
 
-## `[ 05 ]` EXPERIENCE
-
-| ROLE | ORGANISATION | PERIOD |
-|:---|:---|:---:|
-| 🤖 **AI Intern** | DeepThought Culture Ventures · Remote | May 2026 – Jul 2026 |
-| 🌫️ **Technical Contributor** | Delhi Air Quality Research Initiative | Jan 2026 – Present |
-| 💼 **Business Development Intern** | JP IT Staffing · Remote | Apr 2026 – Jul 2026 |
-| ✍️ **Content Writer Intern** | InAmigos Foundation · Remote | Apr 2026 – May 2026 |
-| 🌐 **Open Source Contributor** | GirlScript Summer of Code 2026 | May 2026 – Jun 2026 |
-| 🌐 **Open Source Contributor** | Social Summer of Code | May 2026 – Jun 2026 |
-
-</div>
-
----
-
-<div align="center">
-
-## `[ 06 ]` ACHIEVEMENTS
-
-| BADGE | ACHIEVEMENT | DETAIL |
-|:---:|:---|:---|
-| 🏅 | **National Participant** | Smart India Hackathon |
-| 🏥 | **Finalist** | VIT × JHU Health Hackathon |
-| ⚡ | **Finalist** | Solvit 2025 |
-| 💡 | **Recognition Award** | SBI Life Ideation Challenge |
-| 🎓 | **Certified** | ML Certification · Stanford / DeepLearning.AI |
-| 🌐 | **Certified** | Full Stack Web Dev Certification · Bogdan Staschuk |
-| 🤖 | **IIT Kanpur** | Techgyan 2025 · ML Track |
-| 🥋 | **Black Belt** | Taekwondo · World Taekwondo Headquarters |
-
-</div>
-
----
-
-<div align="center">
-
-## `[ 07 ]` LIVE STATS
-
-![Arav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aravcode2005&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aravcode2005&theme=dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00cc33&sideLabels=00b32d&dates=009926&stroke=001a00&currStreakNum=00ff41&sideNums=00ff41)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aravcode2005&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33)
-
-<!--
-  Optional: a genuinely LIVE animation of your contribution graph (the snake
-  actually eats today's real commit squares). It needs a one-time GitHub
-  Actions setup in this repo — see the note below the README for how to wire it up.
--->
-![Snake animation](https://raw.githubusercontent.com/Aravcode2005/Aravcode2005/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## `[ EOF ]` MANIFESTO
-
+```diff
++ National Participant  // Smart India Hackathon
++ Finalist              // VIT Ã— JHU Health Hackathon
++ Finalist              // Solvit 2025
++ Recognition Award     // SBI Life Ideation Challenge
++ ML Certification      // Stanford / DeepLearning.AI
++ Full-Stack Certified  // Bogdan Staschuk
++ ML Track              // IIT Kanpur Techgyan 2025
++ Black Belt            // Taekwondo Â· World Taekwondo Headquarters
 ```
-user@dev-machine:~$ ./run manifesto.sh
 
-# ─────────────────────────────────────────────
->> bugs are just unhandled edge cases
->> code compiles, character doesn't need to
->> AI is a tool, curiosity is the engine
->> shipped > perfect
-# ─────────────────────────────────────────────
+---
 
-user@dev-machine:~$ █
-```
+## `[ 05 ]` // LIVE TELEMETRY
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aravcode2005&show_icons=true&hide_border=true&bg_color=050508&title_color=00ff9d&text_color=9aa4ad&icon_color=9d4edd&ring_color=00d9ff" alt="Arav's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravcode2005&layout=compact&hide_border=true&bg_color=050508&title_color=00ff9d&text_color=9aa4ad" alt="Most used languages" />
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Aravcode2005&style=for-the-badge&color=00ff41&label=VISITORS)
+<img src="https://streak-stats.demolab.com?user=Aravcode2005&hide_border=true&background=050508&ring=9D4EDD&fire=00FF9D&currStreakLabel=00D9FF&sideLabels=9AA4AD&dates=59636E&stroke=11131A&currStreakNum=ECFFF9&sideNums=ECFFF9" alt="GitHub contribution streak" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,30:00b32d,60:003300,80:001a00,100:000000&height=220&section=footer&text=see%20you%20in%20the%20next%20commit&fontSize=32&fontColor=000000&fontAlignY=55&desc=git+push+--force+life&descSize=14&descColor=000000&descAlignY=76&animation=fadeIn"/>
+<!-- Generated by the GitHub Action on the output branch. -->
+<img src="https://raw.githubusercontent.com/Aravcode2005/Aravcode2005/output/github-contribution-grid-snake.svg" alt="Animated contribution graph" />
 
 </div>
+
+---
+
+<div align="center">
+
+## `[ EOF ]` // DEAD-DROP
+
+```text
+root@arav-node:~# cat /etc/operator/manifesto
+
+    Build until the abstraction breaks.
+    Debug until the failure has nowhere left to hide.
+    Learn the layer below the layer you were told to use.
+    Ship evidenceâ€”not promises.
+
+root@arav-node:~# â–ˆ
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Aravcode2005&style=for-the-badge&color=00ff9d&label=INTERCEPTED+SIGNALS&labelColor=050508)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:00ff9d,30:003d30,65:070711,100:020204&text=CONNECTION%20TERMINATED&fontColor=ecfff9&fontSize=28&fontAlignY=68&desc=the%20next%20trace%20has%20already%20started&descAlignY=84&descSize=13&animation=fadeIn" alt="Connection terminated" />
+
+</div>
+
+<!-- END OF TRANSMISSION -->
