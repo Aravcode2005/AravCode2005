@@ -1,200 +1,86 @@
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:FF6B6B,25:FFB86C,50:F7D794,75:6C5CE7,100:00CEC9&text=ARAV%20GUPTA&fontColor=FFFFFF&fontSize=68&fontAlignY=40&desc=just%20a%20human%20collecting%20stories%20%26%20building%20things%20%E2%9C%A8&descSize=19&descAlignY=62&animation=fadeIn" alt="Arav Gupta — collecting stories and building things" />🌻 hey, i'm arav!
+part engineer · part dreamer · full-time curious human
 
+<a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=2800&pause=900&color=FF8A65&center=true&vCenter=true&multiline=false&width=800&height=50&lines=somewhere+between+the+mountains+and+the+terminal+%F0%9F%8F%94%EF%B8%8F;building+things+%E2%80%A2+chasing+sunsets+%E2%80%A2+making+memories;curiosity+is+my+favorite+compass+%F0%9F%A7%AD;life+is+too+big+for+one+identity+%E2%9C%A8" alt="Animated introduction" /></a>
+
+<a href="https://traveller-smoky.vercel.app/"><img src="https://img.shields.io/badge/🌎_MY_LITTLE_UNIVERSE-FF6B6B?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/arav-gupta/"><img src="https://img.shields.io/badge/LET'S_CONNECT-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Aravg2005/"><img src="https://img.shields.io/badge/PUZZLES_&_PROBLEMS-FDAA4B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:aravlead@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-00BFA6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+
+
+<img width="92%" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1400&q=85" alt="Mountains and a peaceful lake" />“I don't want to just make a living. I want to make a life.” 🌿
+</div>✨ 01 — a little about this wandering human
+🌍 location       earth, for now
+🎓 studying       CSE (AI/ML) · VIT Bhopal · 2024–2028
+🛠️ building       backend, cloud & security systems
+🎨 creating       little edits, websites & experiments
+🌌 loves          open skies, quiet walks & new horizons
+🧭 destination    wherever curiosity takes me
+I love making things that work, understanding why things break, and discovering things that make me feel alive.
+
+Some days you'll find me debugging a container at 2 AM. Other days I'm editing a reel, building a game, learning something completely unrelated, or dreaming about the next mountain to climb.
+
+I don't want to fit in one box. I'd rather build a thousand doors. 🚪🌈
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:080d19,45:123c48,100:15d8b0&text=ARAV%20GUPTA&fontColor=effffb&fontSize=63&fontAlignY=40&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20UNDERSTAND%20%E2%80%A2%20REBUILD&descSize=16&descAlignY=62&animation=fadeIn" alt="Arav Gupta header" />
-
-<br>
-
-<a href="https://readme-typing-svg.demolab.com/demo/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=950&color=37E2BE&center=true&vCenter=true&width=780&height=54&lines=Somewhere+between+the+terminal+and+the+stars.;I+build+systems.+Then+I+learn+how+they+fail.;Curious+mind.+Restless+soul.+Open+road.;Still+learning.+Still+building.+Still+becoming." alt="Typing introduction" />
-</a>
-
-<br>
-
-**Engineering systems. Exploring everything else.**
-
-`Linux` · `Backend` · `Cloud` · `Security` · `DevSecOps`
-
-B.Tech CSE (AI/ML) · VIT Bhopal · 2024–2028
-
-<br>
-
-<a href="https://traveller-smoky.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORLD-15D8B0?style=for-the-badge&logo=vercel&logoColor=071017&labelColor=15D8B0" alt="Explore my portfolio" /></a>
-<a href="https://github.com/Aravcode2005"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/arav-gupta/"><img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=37E2BE" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Aravg2005/"><img src="https://img.shields.io/badge/LEETCODE-111827?style=for-the-badge&logo=leetcode&logoColor=37E2BE" alt="LeetCode" /></a>
-<a href="mailto:aravlead@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-111827?style=for-the-badge&logo=gmail&logoColor=37E2BE" alt="Email" /></a>
-
-<br><br>
-
-*“Not everything that matters fits inside a commit.”*
-
-</div>
-
----
-
-### `01 / the human behind the terminal`
-
-```text
-arav@stars:~$ whoami
-
-  a builder, a learner, a wanderer.
-  fascinated by what happens beneath the interface.
-  drawn to quiet places, difficult problems, and open skies.
-
-arav@stars:~$ cat /etc/interests
-
-  systems engineering   ████████████████
-  security & cloud      ███████████████░
-  creative experiments  ██████████████░░
-  exploring the world   ████████████████
-```
-
-I love the space where **software meets reality**: when a container cannot reach its service, an IAM policy behaves differently than expected, or a machine refuses to boot. I want to know *why*, not just which command makes the error disappear.
-
-I build backend systems and infrastructure, explore security through hands-on engineering, and make creative things outside the terminal too. There is no single box I particularly want to stay in.
-
-> **My rule:** Keep the curiosity. Question the assumptions. Build things that survive contact with the real world.
-
-### `02 / things I've brought to life`
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**🔐 [HireFlow / AirHire](https://github.com/Aravcode2005/HireFlow)**
-
-<sub>Recruitment automation · Node.js · AWS</sub>
-
-<br><br>
-
-- Administrator onboarding with JWT/session authentication, expiring OTPs, and attempt controls.
-- Scheduled Playwright workflows with Gmail and Google Calendar integrations.
-- Containerized services and a **Jenkins → Amazon ECR** delivery pipeline.
-
-`Authentication` `Automation` `CI/CD`
-
-</td>
-<td width="50%" valign="top">
-
-**🎮 [PixelMania](https://github.com/Aravcode2005/pixelManiac)**
-
-<sub>Real-time 3D multiplayer · Socket.IO</sub>
-
-<br><br>
-
-- **30 Hz server-authoritative simulation** for movement, collisions, damage, and match state.
-- Isolated multiplayer rooms; MongoDB persistence and Redis session data.
-- Containerized **Jenkins → ECR → EC2** deployments.
-
-`Real-time systems` `State` `AWS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌍 [My digital home](https://traveller-smoky.vercel.app/)**
-
-<sub>Personal portfolio · art, experiments, engineering</sub>
-
-<br><br>
-
-A home for the things I make and the parts of myself that don't fit neatly into a résumé.
-
-**[Step inside →](https://traveller-smoky.vercel.app/)**
-
-`Portfolio` `Creativity` `The journey`
-
-</td>
-<td width="50%" valign="top">
-
-**🧭 The next frontier**
-
-<sub>Systems security · cloud infrastructure</sub>
-
-<br><br>
-
-Exploring deterministic security checks, infrastructure trust boundaries, and safer ways to ship software.
-
-Some ideas are still diagrams. Some are experiments. That's part of building.
-
-`DevSecOps` `Linux` `Learning in public`
-
-</td>
+<td width="33%"><img width="100%" src="https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=550&q=80" alt="Mountain peaks" /></td>
+<td width="33%"><img width="100%" src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=550&q=80" alt="Sunlit forest" /></td>
+<td width="33%"><img width="100%" src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=550&q=80" alt="Golden sunrise" /></td>
 </tr>
 </table>
+<sub>mountains to climb • paths to wander • sunrises to catch</sub>
+</div>🚀 02 — things I've made with curiosity (and coffee)
+🌟 Project	🌈 What's the story?	🔗 Explore
+🌍 Traveller	My colorful little home on the internet — more than a résumé.	Visit my world
+🎮 PixelMania	Real-time 3D multiplayer game with server-authoritative gameplay, Socket.IO, Redis, MongoDB and AWS deployment.	See the code
+🔐 HireFlow / AirHire	Recruitment automation with authentication, Playwright workflows, integrations and a Jenkins → ECR pipeline.	See the code
+☁️ Infrastructure adventures	Containers, cloud deployment, CI/CD, Linux recovery and the lessons from things breaking spectacularly.	My GitHub
 
-### `03 / stories from the trenches`
 
-**🔓 Bringing an encrypted Linux machine back to life**  
-Installed Arch Linux with a LUKS-encrypted root filesystem, worked through a boot failure after partition changes, and recovered access using a verified LUKS header backup. Archived database data and Docker volumes to S3 and checked integrity with cryptographic hashes.
+<div align="center"><a href="https://traveller-smoky.vercel.app/"><img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=95&color=0:FD79A8,50:A29BFE,100:74B9FF&text=✨%20COME%20EXPLORE%20MY%20PORTFOLIO%20✨&fontSize=24&fontColor=FFFFFF" alt="Explore my portfolio" /></a>
+</div>🧑‍💻 03 — the engineering side of my universe
+<div align="center"><img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,jenkins,git,github,nginx,nodejs,express,redis,mongodb,mysql,postgres,js,ts,python,cpp,java,go&perline=10" alt="My technology stack" /></div>
+What makes me curious lately: security engineering, infrastructure as code, AWS IAM, trust boundaries, distributed systems, and building software that's easier to understand when it fails.
+💡 A lesson from Linux: Sometimes fixing the problem is easy. Understanding why it happened is the real adventure.
 
-**☁️ Following failures through the stack**  
-Debugged AWS security-group connectivity and IAM denials; Jenkins DNS and Docker permissions; container networking, health checks, and reverse-proxy resolution. Worked across Docker Compose, Redis, Nginx, and Caddy.
+A few stories from the trenches:
+- 🔓 Recovered an encrypted Arch Linux system using a verified LUKS header backup.
+- 🐳 Debugged Docker networking, Redis health checks, Nginx/Caddy reverse proxies, Jenkins and AWS connectivity.
+- 🛡️ Built authentication workflows and worked with IAM permissions, JWTs, OTP controls and cryptographic integrity checks.
+- 🎮 Built real-time server-authoritative game logic and deployed containerized services on AWS.
+🎬 04 — but wait, there's more to life than code
+<div align="center"><img width="92%" src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&q=85" alt="Starry mountain night sky" />🌙 the world is bigger than the screen
+I like stories. I like creating. I like the feeling of going somewhere new.
 
-<sub>Hands-on engineering and recovery experience — not a claim of formal penetration-testing or audit work.</sub>
+🎥 Making edits & reels  ·  🥋 Taekwondo  ·  🎮 Making games
+🏔️ Mountains & trails  ·  🌌 Starry nights  ·  🎧 Music for every mood
 
-### `04 / the toolkit`
+Some things are worth doing even when they don't belong on a CV.
+</div>🌱 05 — little milestones, big memories
+- 🧠 460+ algorithm problems solved (and many more bugs befriended).
+- 🏆 SOLVIT 2025 finalist and VIT × JHU Health Hackathon finalist.
+- 🤝 GSSoC & SSoC 2026 contributor.
+- 💼 Worked with JP IT Staffing and DeepThought CultureTech Ventures.
+- 🌱 Contributed technical research to the Delhi Air Quality Research Initiative.
+Still a work in progress. Aren't we all?
+📊 06 — a few pixels from GitHub
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Aravcode2005&show_icons=true&hide_border=true&bg_color=0D1023&title_color=FF79C6&text_color=E6E6FA&icon_color=00CEC9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravcode2005&layout=compact&hide_border=true&bg_color=0D1023&title_color=A29BFE&text_color=E6E6FA" alt="Most used languages" />
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,aws,docker,jenkins,git,github,nginx,nodejs,express,redis,mongodb,mysql,postgres,js,ts,python,cpp,java,go&perline=10" alt="Technology icons" />
+<img src="https://komarev.com/ghpvc/?username=Aravcode2005&label=lovely%20visitors&color=ff69b4&style=flat-square" alt="Profile views" /></div><div align="center">🦋 07 — no final destination
+<img width="92%" src="https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?auto=format&fit=crop&w=1400&q=85" alt="Warm sunrise over the horizon" />I want to build beautiful things, see beautiful places,
+meet beautiful ideas, and never lose the courage to begin again.
 
-</div>
+Not here to be one thing. Here to be fully alive. 🌈
 
-<br>
+<a href="https://traveller-smoky.vercel.app/"><img src="https://img.shields.io/badge/🌻_STEP_INTO_MY_WORLD-FF6B6B?style=for-the-badge" alt="Visit portfolio" /></a>
+<a href="mailto:aravlead@gmail.com"><img src="https://img.shields.io/badge/💌_DROP_A_HELLO-6C5CE7?style=for-the-badge" alt="Email me" /></a>
 
-| Layer | What I work with |
-|:--|:--|
-| **Systems** | Arch Linux, Ubuntu, Amazon Linux, Bash, process/network debugging |
-| **Cloud & delivery** | AWS EC2, ECR, S3, Elastic Beanstalk, Docker, Jenkins, Git |
-| **Backend & data** | Node.js, Express, REST, Socket.IO, MongoDB, Redis, MySQL, PostgreSQL |
-| **Security** | LUKS, JWT, OTP controls, SHA-256, IAM, network boundaries |
-| **Languages** | JavaScript, TypeScript, Python, C++, Java, Go |
 
-### `05 / footprints along the way`
 
-- **JP IT Staffing** — Business Development Intern & Software Project Contributor · Apr–Jul 2026
-- **DeepThought CultureTech Ventures** — AI Intern / DT FDE Fellow · May–Jul 2026
-- **Delhi Air Quality Research Initiative** — Technical research contributor · Jan 2026–present
-
-`460+ DSA problems` · `SOLVIT 2025 finalist` · `VIT × JHU Health Hackathon finalist` · `GSSoC & SSoC 2026 contributor`
-
-### `06 / live signals`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aravcode2005&show_icons=true&hide_border=true&bg_color=080d19&title_color=37e2be&text_color=c2d7d7&icon_color=37e2be" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aravcode2005&layout=compact&hide_border=true&bg_color=080d19&title_color=37e2be&text_color=c2d7d7" alt="GitHub language statistics" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Aravcode2005&style=flat-square&color=15d8b0&label=visitors+passing+through" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-### `07 / beyond the code`
-
-There's more to life than uptime, commits, and green checkmarks.
-
-I like the road with no particular destination, the night sky, learning something just because it looks impossible, and making things simply because they feel worth making.
-
-**If you came here for the code, I hope you found something useful.**  
-**If you came here for the person, [this is the longer story](https://traveller-smoky.vercel.app/).**
-
-<br>
-
-*Stay curious. Stay a little untamed.*
-
-<br>
-
-<a href="https://traveller-smoky.vercel.app/"><img src="https://img.shields.io/badge/ENTER_THE_PORTFOLIO-15D8B0?style=for-the-badge&labelColor=0B1720&color=15D8B0" alt="Open portfolio" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:15d8b0,50:123c48,100:080d19" alt="Footer wave" />
-
-</div>
+made with curiosity, chaos & a little bit of stardust ✨
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:00CEC9,35:6C5CE7,70:FFB86C,100:FF6B6B" alt="Colorful wave footer" /></div>
