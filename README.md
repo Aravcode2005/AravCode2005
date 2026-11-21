@@ -3,12 +3,11 @@ part engineer · part dreamer · full-time curious human
 
 <a href="https://readme-typing-svg.demolab.com/demo/"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=20&duration=2800&pause=900&color=FF8A65&center=true&vCenter=true&multiline=false&width=800&height=50&lines=somewhere+between+the+mountains+and+the+terminal+%F0%9F%8F%94%EF%B8%8F;building+things+%E2%80%A2+chasing+sunsets+%E2%80%A2+making+memories;curiosity+is+my+favorite+compass+%F0%9F%A7%AD;life+is+too+big+for+one+identity+%E2%9C%A8" alt="Animated introduction" /></a>
 
-<a href="https://traveller-smoky.vercel.app/"><img src="https://img.shields.io/badge/🌎_MY_LITTLE_UNIVERSE-FF6B6B?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://unfiltered-tau.vercel.app/#story"><img src="https://img.shields.io/badge/🌎_MY_LITTLE_UNIVERSE-FF6B6B?style=for-the-badge" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/arav-gupta/"><img src="https://img.shields.io/badge/LET'S_CONNECT-6C5CE7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Aravg2005/"><img src="https://img.shields.io/badge/PUZZLES_&_PROBLEMS-FDAA4B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 <a href="mailto:aravlead@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-00BFA6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-
+<a href="https://www.instagram.com/mystexecer"><img src="https://img.shields.io/badge/Instagram-4285F4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> 
 
 <img width="92%" src="https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&w=1400&q=85" alt="Mountains and a peaceful lake" />“I don't want to just make a living. I want to make a life.” 🌿
 </div>✨ 01 — a little about this wandering human
